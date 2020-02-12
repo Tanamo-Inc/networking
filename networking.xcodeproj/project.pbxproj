@@ -56,15 +56,23 @@
 		04D6364223F4398E001D006A /* networking */ = {
 			isa = PBXGroup;
 			children = (
-				04D6364323F4398E001D006A /* AppDelegate.swift */,
-				04D6364523F4398E001D006A /* SceneDelegate.swift */,
+				04D6365723F43E5A001D006A /* supporting files */,
 				04D6364723F4398E001D006A /* ViewController.swift */,
 				04D6364923F4398E001D006A /* Main.storyboard */,
-				04D6364C23F43993001D006A /* Assets.xcassets */,
-				04D6364E23F43993001D006A /* LaunchScreen.storyboard */,
 				04D6365123F43993001D006A /* Info.plist */,
 			);
 			path = networking;
+			sourceTree = "<group>";
+		};
+		04D6365723F43E5A001D006A /* supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				04D6364323F4398E001D006A /* AppDelegate.swift */,
+				04D6364523F4398E001D006A /* SceneDelegate.swift */,
+				04D6364C23F43993001D006A /* Assets.xcassets */,
+				04D6364E23F43993001D006A /* LaunchScreen.storyboard */,
+			);
+			path = "supporting files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
